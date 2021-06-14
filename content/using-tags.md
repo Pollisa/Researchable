@@ -6,9 +6,10 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
+  -ghost
 
-date:  
-tags:
+date:  June
+tags: Research Project Competition
   
 ---
 
