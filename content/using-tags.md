@@ -9,7 +9,7 @@ authors:
   -ghost
 
 date:  June
-tags: Research Project Competition
+tags: research-project-competition
   
 ---
 
