@@ -15,6 +15,7 @@ tags:
 ---
 
 iGEM is an annual competition featuring research projects in synthetic biology from around the world. 
+---
 
 ## What to Know
 + Level: International
