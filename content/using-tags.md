@@ -14,12 +14,11 @@ tags:
   
 ---
 
-empress-blog has a single, powerful organisational taxonomy, called tags.
+iGEM is an international competition of research projects in synthetic biology. 
 
-It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.
+The competition’s main event is the Giant Jamboree, where thousands of students gather in Boston during the fall to present their research. While the competition is designed for undergraduate students, high school students are welcome to join and are placed in their own track. An integral part of iGEM is project presentation, so be prepared to make a wiki (website), posters, a video, and presentation slides beyond your research paper. 
 
-
-## Basic tagging
+## What to Know
 
 When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with `News` and other posts with `Cycling`, which would create two distinct categories of content listed on `/tag/news/` and `/tag/cycling/`, respectively.
 
@@ -27,17 +26,17 @@ If you tag a post with both `News` *and* `Cycling` - then it appears in both sec
 
 Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages and [hopefully soon](https://github.com/empress/empress-blog/issues/1) will support their own cover images and meta data.
 
+Level: international
+Timeline: March through October (But we recommend starting in January!)
+Team Members: 2+ high school/collegiate (Most teams have 8-15 members)
 
-## The primary tag
 
-At the top of every post there is a tiny bit of YAML, and the tags key is an [array](http://yaml.org/spec/1.0/#type-seq) of tags. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.
+## Tips
 
-```yaml
-tags:
-  - news
-  - cycling
-  - bart-stevens
-  - extreme-sports
-```
+1. Plan your research idea early in the year and choose teammates wisely. 
 
-In this example, **News** is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.
+2. Don’t make up your team of rising seniors only! The Giant Jamboree in Boston takes place around the BMAT test date and the US early application due date. 
+
+3. It is a good idea to have members specializing in different areas, such as having a computer person code the wiki, an art person make the posters, and an event person lead public outreach. 
+ 
+4. If you need ideas for your project, all past iGEM projects are uploaded to the website.
