@@ -1,5 +1,5 @@
 ---
-title: Setting up your own Ghost theme
+title: Junior Science Talent Project (JSTP)
 image: /images/design.jpg
 imageMeta:
   attribution:
@@ -7,19 +7,18 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:49:21 GMT+0100 (IST)
+date: Tue Jun 15 2021 17:49:21 GMT+0100 (IST)
 tags:
-  - getting-started
+  - research-project-competition
 ---
-empress-blog currently only supports 2 themes, the default [Casper template](https://github.com/empress/empress-blog-casper-template) and the [Attila template](https://github.com/empress/empress-blog-attila-template). If you want to swap between templates it is as simple as installing a different npm dependency 🎉
+JSTP selects middle and high school students from all over the country to conduct their own research projects. 
 
-The [empress-blog documentation](https://github.com/empress/empress-blog/blob/master/README.md) recommends that you use the default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. The empress-blog-casper-template is a direct fork of Ghost's official Casper repository so it aims to be as close as possible to the original.
+## What to Know
++ Level: National
++ Timeline: December to next June (1.5 years)
++ Team Members: Individual Middle and High School students
++ [Visit the JSTP website](https://www.nstda.or.th/jstp/).
++ [Browse the Facebook page](www.facebook.com/jstpofficial).
 
-If you are interested in writing your own theme for empress-blog you can get started using
 
-```bash
-npm init empress-blog-template <template-name>
-```
-and it will create a brand new template addon in the folder `empress-blog-template-name-template`! You can check out the documentation for [create-empress-blog-template here](https://github.com/empress/create-empress-blog-template#readme). As [Ghost](https://ghost.org/) uses handlebars it is not too difficult to port an existing Ghost template to use Ember templates, so if you have any requests for an existing open source Ghost template please let us know 👍
-
-If you do end up writing an empress-blog template please let me know [on Twitter](https://twitter.com/real_ate) so I can include your template in a list of existing templates.
+Founded by the National Science and Technology Development Agency, JSTP teaches participants how to conduct research from beginning a project to writing a complete report. The initiative provides students with funding and pairs each student with a college professor as their mentor. Throughout the project, JSTP hosts camps for students to present updates on their research. Camps allow for students to learn more about research, what it is like to be a scientist, and  connect with fellow aspiring scientists! After the final presentation, JSTP gives a select number of students scholarships until the doctorate level.
