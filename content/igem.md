@@ -34,3 +34,4 @@ The competition’s main event is the Giant Jamboree, where thousands of student
 + If you have rising seniors your team, be aware that the Giant Jamboree in Boston takes place around the same time as a BMAT test administration and the US early application due date. 
 + iGEM projects expect a lot more than just research – to earn a gold medal, you need to collaborate with other teams, contribute to the Registry of Standard Biological Parts, and communicate with the public. It is a good idea to have members specializing in different areas, such as having a computer person coding the wiki, an art person designing posters, and an event person leading public outreach. 
 + If you need help thinking of your project idea, you can view all past iGEM projects on the iGEM website. Lots of project wikis indicate how to build on their research.
+
