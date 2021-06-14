@@ -33,7 +33,8 @@ module.exports = function(environment) {
         route: 'index'
       }, {
         label: 'Forum',
-        route: 'forum',
+        route: 'page',
+        id: 'chris-manson
       }]
     },
 
