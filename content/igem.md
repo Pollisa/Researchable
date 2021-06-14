@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - ghost
+  - Researchable
 
 date:  Tue Jun 12 2021 17:49:21 GMT+0100 (IST)
 tags: 
@@ -23,7 +23,10 @@ iGEM is an annual competition featuring research projects in synthetic biology f
 + [Visit the iGEM website](https://igem.org/).
 + [Browse iGEM 2021](https://2021.igem.org/Main_Page).
 
-The competition’s main event is the Giant Jamboree, where thousands of students gather in Boston during the fall to present their research. While the competition is designed for undergraduate students, high school students are welcome to join and are placed in their own track. An integral part of iGEM is project presentation, so participants should be prepared to create wikis, posters, videos, and presentation slides beyond your research paper. 
+## About
++ The competition’s main event is the **Giant Jamboree**, where thousands of students gather in Boston during the fall to present their research. 
++ While the competition is designed for undergraduate students, **high school students are welcome to join and are placed in their own track. **
++ **An integral part of iGEM is project presentation**, so participants should be prepared to create wikis, posters, videos, and presentation slides beyond your research paper. 
 
 
 ## Tips
