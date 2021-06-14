@@ -23,5 +23,5 @@ JSTP selects middle and high school students from all over the country to conduc
 ## About
 + Founded by the National Science and Technology Development Agency (NSTDA), JSTP is an initiative that **teaches participants how to conduct research** from beginning a project to writing a complete report. 
 + JSTP provides financial support and pairs each student with a college professor as their mentor. 
-+ Throughout the project, JSTP hosts camps for students to present updates on their research. Camps allow for students to learn more about research, what it is like to be a scientist, and  connect with fellow aspiring scientists! 
-+ After the final presentation, JSTP gives a select number of students scholarships until the doctorate level.
++ Throughout the project, **JSTP hosts camps for students to present updates on their research.** Camps allow for students to learn more about research, what it is like to be a scientist, and  connect with fellow aspiring scientists! 
++ After the final presentation, JSTP gives a select number of **academic scholarships** until the doctorate level.
