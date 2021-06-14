@@ -1,15 +1,15 @@
 ---
-title: Organising your content with tags
+title: International Genetically Engineered Machine (iGEM) Competition 
 image: /images/tags.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
+
+date:  
 tags:
-  - getting-started
+  
 ---
 
 empress-blog has a single, powerful organisational taxonomy, called tags.
