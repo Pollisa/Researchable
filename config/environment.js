@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'Researchable',
+    modulePrefix: 'empress-blog-casper',
     environment,
     rootURL: '/',
     locationType: 'auto',
@@ -32,9 +32,10 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Forum',
+        label: 'forum',
         route: 'page',
-        id: 'chris-manson'
+        id: 'chris-manson
+      }]
       }]
     },
 
