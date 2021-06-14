@@ -6,10 +6,11 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  -ghost
+  - ghost
 
-date:  June
-tags: research-project-competition
+date:  Tue Jun 12 2021 17:49:21 GMT+0100 (IST)
+tags: 
+  - research-project-competition
   
 ---
 
