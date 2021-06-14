@@ -24,3 +24,18 @@ The requirements for each round are: (as of YSC 2021)
 Teams create research projects in one of eight subjects: Biology, Chemistry, Computer Science, Engineering, Environmental Science, Mathematics, Material Science, and Physics. Teams pass the preliminary and regional rounds by competing with other teams in the same subject area. Those that pass both rounds compete against all other teams in the final round.
 
 Winners of YSC Thailand constitute less than 4% of registered participants and qualify to compete in the prestigious Regeneron ISEF Competition in May.
+
+## What to Know
++ Level: Regional and National
++ Timeline: September through March
++ Team Members: 1-3 high school students
++ [Visit the YSC Website](www.nectec.or.th/ysc/)
++ [Receive YSC Updates](www.facebook.com/YSCThailandFanpage)
+
+
+## Tips
++ The Facebook Fanpage is actually a lot more helpful than the website. Although the page is named a "fanpage," YSC admins regularly update the page with announcements, including the results of every round. If you have questions, try messaging the Facebook page or calling the telephone number.
++ Since YSC and JSTP occur around the same time, many students strategically use the same project in both competitions.
++ Like iGEM, be prepared to make multiple videos and posters showcasing your project. It is a good idea to have an art person on board.
++ To get far, start with an innovative and creative project idea. When it gets competitive, all teams are sure to have great execution of their projects. Having a stellar idea makes a great impression and will help you stand out from the rest.
++ If you’re uncomfortable speaking in Thai, you can present your project in English. The judges understand!
