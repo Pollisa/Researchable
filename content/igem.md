@@ -23,7 +23,7 @@ The competition’s main event is the Giant Jamboree, where thousands of student
 + Level: international
 + Timeline: March through October (But we recommend starting in January!)
 + Team Members: 2+ high school/collegiate (Most teams have 8-15 members)
-+ Visit: www.igem.org 
++ Visit: [iGEM website](https://igem.org/).
 
 
 ## Tips
