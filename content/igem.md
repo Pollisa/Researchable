@@ -20,15 +20,17 @@ The competition’s main event is the Giant Jamboree, where thousands of student
 
 ## What to Know
 
-+ Level: international
++ Level: International
 + Timeline: March through October (But we recommend starting in January!)
-+ Team Members: 2+ high school/collegiate (Most teams have 8-15 members)
-+ Visit: [iGEM website](https://igem.org/).
++ Team Members: 2+ High school/Collegiate (Most teams have 8-15 members)
++ [Visit the iGEM website](https://igem.org/).
++ [Browse iGEM 2021](https://2021.igem.org/Main_Page).
+
 
 
 ## Tips
 
-+ Plan your research idea early in the year and choose your teammates wisely. 
-+ Be aware that the Giant Jamboree in Boston takes place around the same time as a BMAT test administration and the US early application due date. 
-+ It is a good idea to have members specializing in different areas, such as having a computer person coding the wiki, an art person designing posters, and an event person leading public outreach. 
++ Plan your research idea early in the year! Every team is bound to experience scheduling conflicts, shipping delays, and miscommunication with professors. Aim to begin diving into your research as soon as the school year ends.
++ If you have rising seniors your team, be aware that the Giant Jamboree in Boston takes place around the same time as a BMAT test administration and the US early application due date. 
++ iGEM projects expect a lot more than just research – to earn a gold medal, you need to collaborate with other teams, contribute to the Registry of Standard Biological Parts, and communicate with the public. It is a good idea to have members specializing in different areas, such as having a computer person coding the wiki, an art person designing posters, and an event person leading public outreach. 
 + If you need help thinking of your project idea, you can view all past iGEM projects on the iGEM website. Lots of project wikis indicate how to build on their research.
