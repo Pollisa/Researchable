@@ -16,16 +16,14 @@ tags:
 
 iGEM is an annual competition featuring research projects in synthetic biology from around the world. 
 
-The competition’s main event is the Giant Jamboree, where thousands of students gather in Boston during the fall to present their research. While the competition is designed for undergraduate students, high school students are welcome to join and are placed in their own track. An integral part of iGEM is project presentation, so participants should be prepared to create wikis, posters, videos, and presentation slides beyond your research paper. 
-
 ## What to Know
-
 + Level: International
 + Timeline: March through October (But we recommend starting in January!)
 + Team Members: 2+ High school/Collegiate (Most teams have 8-15 members)
 + [Visit the iGEM website](https://igem.org/).
 + [Browse iGEM 2021](https://2021.igem.org/Main_Page).
 
+The competition’s main event is the Giant Jamboree, where thousands of students gather in Boston during the fall to present their research. While the competition is designed for undergraduate students, high school students are welcome to join and are placed in their own track. An integral part of iGEM is project presentation, so participants should be prepared to create wikis, posters, videos, and presentation slides beyond your research paper. 
 
 
 ## Tips
