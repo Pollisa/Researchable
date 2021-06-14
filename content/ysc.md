@@ -30,7 +30,7 @@ Winners of YSC Thailand constitute less than 4% of registered participants and q
 + Timeline: September through March
 + Team Members: 1-3 high school students
 + [Visit the YSC Website](www.nectec.or.th/ysc/)
-+ [Receive YSC Updates](www.facebook.com/YSCThailandFanpage)
++ [Visit YSC Thailand Fanpage on Facebook](www.facebook.com/YSCThailandFanpage)
 
 
 ## Tips
